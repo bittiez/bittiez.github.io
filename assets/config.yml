@@ -76,6 +76,12 @@ services:
         tag: "Entertainment"
         url: "https://reddit.com/"
         #target: "_blank"
+      - name: "DWR Fishing Report"
+        logo: ""
+        subtitle: ""
+        tag: "Fishing"
+        url: "https://dwrapps.utah.gov/fishing/fStart"
+        #target: "_blank"
   - name: "Effeciency"
     icon: "fas fa-cloud"
     items:
